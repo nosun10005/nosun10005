@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @nosun10005
-- 👀 I’m interested in on-device ai based android,iOS app.
-- 🌱 I’m currently learning vision deeplearning and tensorflow-lite.
-- 💞️ I’m looking to collaborate on deeplearning based korean word auto completion. 
+- 👀 I’m interested in on-device ai based iOS app.
 - 📫 How to reach me send email.
 
 <!---

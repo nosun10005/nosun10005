@@ -1,1 +1,1 @@
-
+🍎 Apple lover who enjoys building with **Swift** and **Python**, deeply fascinated by **On-Device AI** 🤖 · ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Apple](https://img.shields.io/badge/On--Device%20AI-000000?style=flat-square&logo=apple&logoColor=white)
